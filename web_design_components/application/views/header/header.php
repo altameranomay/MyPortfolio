@@ -7,5 +7,7 @@
     <title>My Portfolio</title>
 
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/global.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/login.css">
   </head>
   <body>
